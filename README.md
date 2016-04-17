@@ -3,8 +3,9 @@ This is a collection of Fish (__F__riendly __I__nteractive __Sh__ell) functions
 and aliases that I use. Please clone this repository and add your own functions.If you think your function might be useful to others, please submit a pull request!
 
 ## Included Functions
-- `goto`: alias for `cd <dir>; pwd; ls`.
-- `is`: usage: `is <command>`. Prints the exit status of the command.
+- `desc`: Print description of a fish function.
+- `goto`: Alias for `cd <dir>; pwd; ls`.
+- `is`: Prints the exit status of the command. Usage: `is <command>`.
 - `lsd`: Lists subdirectories.
 - `ok`: Clears the terminal and displays the current directory and its contents.
 - `new`: Opens a new terminal window. Alias for `x-terminal-emulator`.
