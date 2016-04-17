@@ -1,5 +1,5 @@
 # fish-functions
-This is a collection of Fish (__F__riendly __I__nteractive __Sh__ell) functions
+This is a collection of Fish (**F**riendly **I**nteractive **Sh**ell) functions
 and aliases that I use. Please clone this repository and add your own functions.If you think your function might be useful to others, please submit a pull request!
 
 ## Included Functions
