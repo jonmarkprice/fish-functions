@@ -9,6 +9,7 @@ and aliases that I use. Please clone this repository and add your own functions.
 - `lsd`: Lists subdirectories.
 - `ok`: Clears the terminal and displays the current directory and its contents.
 - `new`: Opens a new terminal window. Alias for `x-terminal-emulator`.
+- `addpath`: Adds the following paths to the start of your global PATH variable
 
 ## Installation
 Fish reads functions `~/.config/fish/functions`. Any `.fish` file there can be
