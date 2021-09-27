@@ -22,6 +22,6 @@ files in into commands.
 
 ## Quick Installation (Linux / WSL)
 Run these commands:
-`git clone https://github.com/Pastramicity/fish-functions.git`
-`mv fish-functions/* ~/.config/fish/functions/`
-`rmdir fish-functions`
+- `git clone https://github.com/Pastramicity/fish-functions.git`
+- `mv fish-functions/* ~/.config/fish/functions/`
+- `rmdir fish-functions`
